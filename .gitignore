@@ -1,1 +1,6 @@
+# useless vscode folders
 /.vscode
+
+
+#build folder
+/build
